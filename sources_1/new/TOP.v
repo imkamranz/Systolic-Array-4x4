@@ -2,7 +2,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer:        Kamran Zahid
-// Create Date:     06/07/2024 04:00:25 AM
 // Design Name: 
 // Module Name:     TOP
 // Project Name:    Multiplication of two matrices
