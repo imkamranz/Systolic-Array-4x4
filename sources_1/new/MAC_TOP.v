@@ -3,7 +3,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer:        Kamran Zahid
-// Create Date:     06/07/2024 04:00:25 AM
 // Design Name: 
 // Module Name:     MAC_TOP
 // Project Name:    Multiplication of two matrices
@@ -527,6 +526,7 @@ always @ (posedge clk or posedge reset)
 					  W14_after_actvtn[7:0],   W24_after_actvtn[7:0],   W34_after_actvtn[7:0],   W44_after_actvtn[7:0]};
 end
 ///////////////////////////////////////////////////////////////////////////    
+
 
 
 endmodule
