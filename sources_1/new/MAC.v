@@ -3,7 +3,6 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer:        Kamran Zahid
-// Create Date:     06/07/2024 04:00:25 AM
 // Design Name: 
 // Module Name:     MAC
 // Project Name:    Multiplication of two matrices
@@ -54,3 +53,4 @@ module MAC (
     end
 
 endmodule
+
